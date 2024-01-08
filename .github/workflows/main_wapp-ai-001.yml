@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'wapp-ai-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_653E63726A374B3DAB94E1AE8AAC09A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57BBFC36E4D84230AED2166ED48085FC }}
